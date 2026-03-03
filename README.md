@@ -1,6 +1,5 @@
 # Hi there, I'm JhCircle 👋
 
-- 🔭 I’m currently pursuing a Master’s degree at ECNU
 - 🔬 **Research interests**: building **_reasoning & social alignment_** LLMs for societal benefit.
 - 🚀 **Kardia-R1** — an empathetic large language model (technical report).
 - 💼 Actively seeking roles in **high-impact LLM teams**, focusing on _reasoning & social alignment_.
